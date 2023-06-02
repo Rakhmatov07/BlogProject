@@ -1,0 +1,42 @@
+[
+  {
+    "id": "e9adeb6e-4338-491e-b451-a1671f0a73eb",
+    "fullname": "Rakhmatjon Rakhmatov",
+    "email": "rakhmatov1207@gmail.com",
+    "username": "maestro",
+    "password": 12334455666,
+    "createdAt": "2023-06-01T15:51:02.812Z"
+  },
+  {
+    "id": "846c7267-79f7-4531-867d-0bfaef48bab4",
+    "fullname": "Ali Hakimov",
+    "email": "ali207@gmail.com",
+    "username": "hakimov123",
+    "password": 768768687,
+    "createdAt": "2023-06-01T18:27:09.885Z"
+  },
+  {
+    "id": "e90c5649-00de-4ad1-a819-3bb7a98cd9f5",
+    "fullname": "Adi",
+    "email": "adi123@gmail.com",
+    "username": "adi123",
+    "password": 1221118687,
+    "createdAt": "2023-06-02T06:42:59.344Z"
+  },
+  {
+    "id": "0efffe25-ddc4-480c-ada1-e1c0521320e3",
+    "fullname": "Shoxruz Isoqulov",
+    "email": "shoxruz2223@gmail.com",
+    "username": "shoxruz22123",
+    "password": 676776677,
+    "createdAt": "2023-06-02T09:21:31.582Z"
+  },
+  {
+    "id": "b01e4e38-6b6f-4de9-94cf-2b907d3d932b",
+    "fullname": "Asad",
+    "email": "asad2223@gmail.com",
+    "username": "asad22123",
+    "password": 387498347898,
+    "createdAt": "2023-06-02T13:12:18.928Z"
+  }
+]
